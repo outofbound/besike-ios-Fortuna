@@ -1,9 +1,9 @@
-fortuna
+Fortuna
 =======
 My fist IOS App in Swift 
 
+Tap anywhere in the screen for new quote
+
 Learned @ bbs.besike.com
 
-How to use 
-=======
-Tap anywhere in the screen for new quote
+
