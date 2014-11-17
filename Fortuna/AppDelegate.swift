@@ -42,11 +42,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func loadJSON(path: String) ->AnyObject? {
         // Load data from path
         let data = NSData(contentsOfFile: path)
-        //assert(data != nil, "Failed to read data from: \(path)")
+        assert(data != nil, "Failed to read data from: \(path)")
         
         // Parse JSON data
         var err : NSError?
-        let json: AnyObject? = NSJSONSerialization.JSONObjectWithData(data, options: NSJSONReadingOptions.allZeros, error: &err)
+        let json: AnyObject? = NSJSONSerialization.JSONObjectWithData(data!, options: NSJSONReadingOptions.allZeros, error: &err)
         assert(err == nil, "Error parsing json: \(err)")
         
         return json

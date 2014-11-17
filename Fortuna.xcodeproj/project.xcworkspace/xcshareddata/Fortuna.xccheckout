@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>CF2545EB-D89E-419F-B126-718EBD296213</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Fortuna</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C90A4754907E3BB2AFCB93A067C7B246CD4A8050</key>
+		<string>github.com:outofbound/fortuna.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Fortuna.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C90A4754907E3BB2AFCB93A067C7B246CD4A8050</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github.com:outofbound/fortuna.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C90A4754907E3BB2AFCB93A067C7B246CD4A8050</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C90A4754907E3BB2AFCB93A067C7B246CD4A8050</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Fortuna</string>
+		</dict>
+	</array>
+</dict>
+</plist>
